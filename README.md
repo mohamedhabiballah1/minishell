@@ -26,7 +26,7 @@ Clone the repository:
    cd minishell
 Build the project:
 
-`bash
+```bash
 make
 Usage
 Run the Minishell:
