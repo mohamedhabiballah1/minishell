@@ -21,20 +21,17 @@ Readline library (for command line editing)
 Building
 Clone the repository:
 
-bash
-Copy code
+``` bash Copy code
 git clone https://github.com/yourusername/minishell.git
 cd minishell
 Build the project:
 
-bash
-Copy code
+``` bash Copy code
 make
 Usage
 Run the Minishell:
 
-bash
-Copy code
+``` bash Copy code
 ./minishell
 You can now enter shell commands and interact with the Minishell.
 
