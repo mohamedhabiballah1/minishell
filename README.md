@@ -22,8 +22,8 @@ Building
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/minishell.git
-cd minishell
+   git clone https://github.com/yourusername/minishell.git
+   cd minishell
 Build the project:
 
 `bash
