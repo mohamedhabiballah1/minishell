@@ -27,12 +27,12 @@ Clone the repository:
 Build the project:
 
 ```bash
-make
+   make
 Usage
 Run the Minishell:
 
 ```bash
-./minishell
+   ./minishell
 You can now enter shell commands and interact with the Minishell.
 
 # Supported Commands
